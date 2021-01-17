@@ -1,6 +1,6 @@
 <div class="container-fluid mt-4">
     <div class="row">
-        <div class="col-12">
+        <div class="col-12 mt-4">
             <a href="tel:+33642075850" class="colorToA">
                 <p class="sizeForMobile ">tel: 06.42.07.58.50</p>
             </a>

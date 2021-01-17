@@ -22,20 +22,17 @@
             </div>
         </div>
         <div class="col-12 col-sm-12 col-md-6 col-lg-6">
-            <p class="mt-4 sizeForMobile">Bonjour je suis Lucas THOMAS on m'appelle aussi Zawa par moment
-                je suis
-                un Jeune Outil Multifonction du web de 21 ans, passionner par le
-                cinéma,l'art, les jeux vidéos
-                ainsi que les Mangas.</p>
-            <p class="mt-2 sizeForMobile">Au début du texte précèdent je me suis qualifier de "Jeune Outil
-                Multifonction" pour une raison simple : "J'ai des compétences en web comme
-                j'en ai en
-                illustrations".</p>
-            <p class="mt-2 sizeForMobile">Donc si vous êtes intéressez n'hésitez plus contacter moi !</p>
+            <p class="mt-4 sizeForMobile">Bonjour, je suis Lucas THOMAS, on m'appelle aussi Zawa par moment, je suis un
+                Jeune Outil Multifonction du web de 21 ans, passionner par le cinéma, l'art, les jeux vidéo ainsi que
+                les Mangas.</p>
+            <p class="mt-2 sizeForMobile">Au début du texte précédent, je me suis qualifié de "Jeune Outil
+                Multifonction" pour une raison simple : "J'ai des compétences en web comme j'en ai en illustrations".
+                </p>
+            <p class="mt-2 sizeForMobile">Donc si vous êtes intéressez n'hésitez pas à me contacter !</p>
             <div class="container mt-5">
                 <div class="row">
                     <div class="col-12">
-                        <p>permis B <img src="assets\img\voiture.png" class="ml-3 img-fluid" width="100" alt="voiture"
+                        <p>Permis B <img src="assets\img\voiture.png" class="ml-3 img-fluid" width="100" alt="voiture"
                                 id="car"></p>
                     </div>
                     <div class="col-12">

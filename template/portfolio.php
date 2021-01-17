@@ -46,7 +46,7 @@
             </div>
             <div class="col-12">
                 <a href="https://www.instagram.com/zawa_tsuka29/">
-                    <p class="zoom"> vous voulez en voir plus n'hesitez pas a venir sur mon insta ! <img
+                    <p class="zoom"> Vous voulez en voir plus n'hésitez pas à venir sur mon Instagram de dessins ! <img
                             src="assets\img\insta dessin.png" class="img-fluid" width="100" alt=""></p>
                 </a>
             </div>
@@ -64,13 +64,13 @@
             <div class="col-12">
                 <a href="https://zawatsuka.github.io/Le-loot/"><img src="assets/img/site/leloot.png"
                         class="img-fluid zoom" width="300" alt="le loot site"></a>
-                        <p>(/!\site non responsive /!\) Pour un projet d'ecole on a creer un site pour un Bar orienté gaming nommer le "Le Loot".</p>
+                        <p>(/!\site non responsive /!\) Pour un projet d'école on a créer un site pour un Bar orienté gaming nommer le "Le Loot".</p>
                 <a href="https://yanngosselin1986.github.io/Projet-vinyl/"><img src="assets/img/site/french-valine.png"
                         class="img-fluid zoom" width="300" alt="projet vynile site"></a>
-                        <p>Pour un projet d'ecole nous avons du rentre un site deja creer responsive.</p>
+                        <p>Pour un projet d'école, nous avons dû rendre responsive un site déjà créé.</p>
                 <a href="https://github.com/TimothyJounier/Mood-Base"><img src="assets\img\site\moodbase.png" class="img-fluid zoom" width="300"
                         alt="moodbase site"></a>
-                        <p>(lien gitHub)Pour un projet d'ecole,nous avons du creer un site e-commerce, le site avait pour but de vendre des socles en bois pour le high tech</p>
+                        <p>(lien gitHub) Pour un projet d'école, nous avons du créer un site e-commerce, le site avait pour but de vendre des socles en bois pour le high tech</p>
             </div>
         </div>
     </div>
@@ -83,26 +83,26 @@
     <div class="container">
         <div class="row">
             <div class="col-12 mt-5">
-                    <h3>Les differents logos creer pour mes camarades a la Manu !</h3>
+                    <h3>Les différents logos créés pour mes camarades à la Manu !</h3>
             </div>
             <div class="col-12">
-                <a href="#logo"><img src="assets\img\logo\alafut.png" class="img-fluid zoom" width="300" alt="a la fut"></a>
-                <a href="#logo"><img src="assets\img\logo\alafut (2).png" class="img-fluid zoom" width="300" alt="a la fut"></a>
+                <a href="#logo"><img src="assets\img\logo\alafut.png" class="img-fluid zoom p-2" width="300" alt="a la fut"></a>
+                <a href="#logo"><img src="assets\img\logo\alafut (2).png" class="img-fluid zoom p-2" width="300" alt="a la fut"></a>
                 <a href="#logo"><img src="assets\img\logo\Fichier 1.png" class="img-fluid zoom" width="300" alt="vinyle"></a>
             </div>
             <div class="col-12">
-                <a href="#logo"><img src="assets\img\logo\Fichier 2.png" class="img-fluid zoom" width="300" alt="vinyle"></a>
-                <a href="#logo"><img src="assets\img\logo\Florino de la morellli.svg" class="img-fluid zoom" width="300" alt="fml"></a>
+                <a href="#logo"><img src="assets\img\logo\Fichier 2.png" class="img-fluid zoom p-2" width="300" alt="vinyle"></a>
+                <a href="#logo"><img src="assets\img\logo\Florino de la morellli.svg" class="img-fluid zoom p-2" width="300" alt="fml"></a>
                 <a href="#logo"><img src="assets\img\logo\gtg.svg" class="img-fluid zoom" width="300" alt="gtg"></a>
             </div>
             <div class="col-12">
-                <a href="#logo"><img src="assets\img\logo\logo avec le rose.svg" class="img-fluid zoom" width="300" alt="vinyle"></a>
+                <a href="#logo"><img src="assets\img\logo\logo avec le rose.svg" class="img-fluid zoom p-2" width="300" alt="vinyle"></a>
                 <a href="#logo"><img src="assets\img\logo\RALATV.svg" class="img-fluid zoom" width="300" alt="fml"></a>
             </div>
             <div class="col-12">
                 <a href="https://www.instagram.com/zawa_design/">
-                    <p class="zoom"> vous voulez en voir plus n'hesitez pas a venir sur mon insta pro ! 
-                        <img src="assets\img\insta pro.png" class="img-fluid" width="100" alt="insta"></p>
+                    <p class="zoom"> Vous voulez en voir plus n'hésitez pas à venir sur mon instagram pro ! 
+                        <img src="assets\img\insta pro.png" class="img-fluid p-2" width="100" alt="insta"></p>
                 </a>
             </div>
         </div>
