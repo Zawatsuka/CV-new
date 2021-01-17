@@ -77,7 +77,7 @@
 </div>
 <a class="btn btn-danger btn-lg" data-toggle="collapse" href="#logo" role="button" aria-expanded="false"
     aria-controls="collapseExample">
-   <p class="text-light">Logos</p> 
+   <p class="text-light m-0 p-0">Logos</p> 
 </a>
 <div class="collapse" id="logo">
     <div class="container">
