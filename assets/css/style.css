@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    font-family: 'Quicksand', sans-serif;
+    background: linear-gradient(270deg, #fbd042, #ffffff, #ffffff);
+    background-size: 600% 600%;
+    color: black;
+    font-size: 25px; 
+    -webkit-animation: AnimationName 18s ease infinite;
+    -moz-animation: AnimationName 18s ease infinite;
+    animation: AnimationName 18s ease infinite;
+}
+  .dark-mode {
+    color: white;
+    background: linear-gradient(270deg, #315192, #000000, #000000);
+    background-size: 600% 600%;
+
+    -webkit-animation: AnimationName 18s ease infinite;
+    -moz-animation: AnimationName 18s ease infinite;
+    animation: AnimationName 18s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+.ModifList{
+    list-style: none;
+}
+a:visited {
+    color: #a85086 !important;
+    
+  }
+a:link{
+    text-decoration: none;
+}
+a:hover {
+    color: #A43640;
+  }
+  a:active {
+    color: #a85086 !important;
+  }
+.fontSize{
+    font-size: 3rem;
+}
+@media screen and (min-width: 200px) and (max-width: 640px) {
+.sizeForMobile{
+    font-size: 0.7em;
+}
+}
