@@ -33,7 +33,7 @@
                     </div>
 
                     <!-- partie competences  -->
-                    <a class="text-danger" data-toggle="collapse" href="#comp" role="button" aria-expanded="false">
+                    <a class="colorToA" data-toggle="collapse" href="#comp" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Competences</p>
                     </a>
                     <div class="collapse mt-2" id="comp">
@@ -41,17 +41,20 @@
                     </div>
 
                     <!-- partie formation  -->
-                    <a class="text-danger" data-toggle="collapse" href="#form" role="button" aria-expanded="false">
+                    <a class="colorToA" data-toggle="collapse" href="#form" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Formation</p>
                     </a>
                     <div class="collapse mt-2" id="form">
                         <?php include('template/formation.php'); ?>
                     </div>
 
-
-                    <a href="#">
+                    <!-- partie Experiences  -->
+                    <a class="colorToA" data-toggle="collapse" href="#exp" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Experiences</p>
                     </a>
+                    <div class="collapse mt-2" id="exp">
+                        <?php include('template\experience.php'); ?>
+                    </div>
 
 
                     <a href="#">

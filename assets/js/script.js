@@ -15,6 +15,7 @@ function myFunction() {
     var imgHTML = document.getElementById("HTMLimg")
     var imgCSS = document.getElementById("CSSimg")
     var imgJS = document.getElementById("JSimg")
+    var home = document.getElementById("home")
     element.classList.toggle("dark-mode");
 
     // condition qui changer le logo selon le darkmode ou non 
@@ -98,5 +99,12 @@ function myFunction() {
         imgJS.setAttribute('src', 'assets/img/web/js.png');
     } else {
         imgJS.setAttribute('src', 'assets/img/web/JSblanc.png');
+    };
+
+    // condition pour home 
+    if (home.getAttribute('src') == 'assets/img/homewhite.png') {
+        home.setAttribute('src', 'assets/img/home.png');
+    } else {
+        home.setAttribute('src', 'assets/img/homewhite.png');
     };
 }
