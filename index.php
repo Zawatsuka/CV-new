@@ -56,6 +56,7 @@
                         <?php include('template/experience.php'); ?>
                     </div>
 
+                    <!-- partie portfolio  -->
                     <a href="#porfolio" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Portfolio</p>
                     </a>
@@ -63,10 +64,13 @@
                         <?php include('template/portfolio.php'); ?>
                     </div>
 
-
-                    <a class="colorToA" href="#">
+                     <!-- partie contact  -->
+                     <a href="#Contact" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Contact</p>
                     </a>
+                    <div class="collapse mt-2" id="Contact">
+                        <?php include('template/contact.php'); ?>
+                    </div>
                 </div>
             </div>
         </div>

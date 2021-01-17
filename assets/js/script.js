@@ -5,17 +5,19 @@ function myFunction() {
     var element = document.body;
     var imgLogo = document.getElementById("imgChange");
     var imgdarkmode = document.getElementById("moon");
-    var imgClap = document.getElementById("clap")
-    var imgArt = document.getElementById("art")
-    var imgGame = document.getElementById("game")
-    var imgClapM = document.getElementById("clapM")
-    var imgArtM = document.getElementById("artM")
-    var imgGameM = document.getElementById("gameM")
-    var imgCar = document.getElementById("car")
-    var imgHTML = document.getElementById("HTMLimg")
-    var imgCSS = document.getElementById("CSSimg")
-    var imgJS = document.getElementById("JSimg")
-    var home = document.getElementById("home")
+    var imgClap = document.getElementById("clap");
+    var imgArt = document.getElementById("art");
+    var imgGame = document.getElementById("game");
+    var imgClapM = document.getElementById("clapM");
+    var imgArtM = document.getElementById("artM");
+    var imgGameM = document.getElementById("gameM");
+    var imgCar = document.getElementById("car");
+    var imgHTML = document.getElementById("HTMLimg");
+    var imgCSS = document.getElementById("CSSimg");
+    var imgJS = document.getElementById("JSimg");
+    var home = document.getElementById("home");
+    var instaP = document.getElementById("instaPro");
+    var instaA = document.getElementById("instaDessin");
     element.classList.toggle("dark-mode");
 
     // condition qui changer le logo selon le darkmode ou non 
@@ -106,5 +108,18 @@ function myFunction() {
         home.setAttribute('src', 'assets/img/home.png');
     } else {
         home.setAttribute('src', 'assets/img/homewhite.png');
+    };
+    // condition pour insta pro 
+    
+    if (instaP.getAttribute('src') == 'assets/img/insta pro blanc.png') {
+        instaP.setAttribute('src', 'assets/img/insta pro.png');
+    } else {
+        instaP.setAttribute('src', 'assets/img/insta pro blanc.png');
+    };
+    // condition pour insta dessin 
+    if (instaA.getAttribute('src') == 'assets/img/insta dessin white.png') {
+        instaA.setAttribute('src', 'assets/img/insta dessin.png');
+    } else {
+        instaA.setAttribute('src', 'assets/img/insta dessin white.png');
     };
 }

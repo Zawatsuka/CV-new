@@ -77,21 +77,33 @@
 </div>
 <a class="btn btn-danger btn-lg" data-toggle="collapse" href="#logo" role="button" aria-expanded="false"
     aria-controls="collapseExample">
-    Logos
+   <p class="text-light">Logos</p> 
 </a>
 <div class="collapse" id="logo">
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-12 mt-5">
                     <h3>Les differents logos creer pour mes camarades a la Manu !</h3>
             </div>
             <div class="col-12">
-                <a href="#"><img src="assets\img\portfolio\illu\chelou.jpg" class="img-fluid zoom" width="300" alt=""></a>
-            
+                <a href="#logo"><img src="assets\img\logo\alafut.png" class="img-fluid zoom" width="300" alt="a la fut"></a>
+                <a href="#logo"><img src="assets\img\logo\alafut (2).png" class="img-fluid zoom" width="300" alt="a la fut"></a>
+                <a href="#logo"><img src="assets\img\logo\Fichier 1.png" class="img-fluid zoom" width="300" alt="vinyle"></a>
             </div>
             <div class="col-12">
-                <a href="https://www.instagram.com/p/CA78u9BjLqH/?utm_source=ig_web_copy_link"><img
-                        src="assets\img\portfolio\illu\clownboy.jpg" class="img-fluid zoom" width="300" alt=""></a>
+                <a href="#logo"><img src="assets\img\logo\Fichier 2.png" class="img-fluid zoom" width="300" alt="vinyle"></a>
+                <a href="#logo"><img src="assets\img\logo\Florino de la morellli.svg" class="img-fluid zoom" width="300" alt="fml"></a>
+                <a href="#logo"><img src="assets\img\logo\gtg.svg" class="img-fluid zoom" width="300" alt="gtg"></a>
+            </div>
+            <div class="col-12">
+                <a href="#logo"><img src="assets\img\logo\logo avec le rose.svg" class="img-fluid zoom" width="300" alt="vinyle"></a>
+                <a href="#logo"><img src="assets\img\logo\RALATV.svg" class="img-fluid zoom" width="300" alt="fml"></a>
+            </div>
+            <div class="col-12">
+                <a href="https://www.instagram.com/zawa_design/">
+                    <p class="zoom"> vous voulez en voir plus n'hesitez pas a venir sur mon insta pro ! 
+                        <img src="assets\img\insta pro.png" class="img-fluid" width="100" alt="insta"></p>
+                </a>
             </div>
         </div>
     </div>
