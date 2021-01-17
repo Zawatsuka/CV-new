@@ -37,9 +37,6 @@ body {
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
-.ModifList{
-    list-style: none;
-}
 a:visited {
     color: #a85086 !important;
     
@@ -54,7 +51,7 @@ a:hover {
     color: #a85086 !important;
   }
 .fontSize{
-    font-size: 3rem;
+    font-size: 2rem;
 }
 @media screen and (min-width: 200px) and (max-width: 640px) {
 .sizeForMobile{

@@ -83,7 +83,15 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                    
+                    <h3>Les differents logos creer pour mes camarades a la Manu !</h3>
+            </div>
+            <div class="col-12">
+                <a href="#"><img src="assets\img\portfolio\illu\chelou.jpg" class="img-fluid zoom" width="300" alt=""></a>
+            
+            </div>
+            <div class="col-12">
+                <a href="https://www.instagram.com/p/CA78u9BjLqH/?utm_source=ig_web_copy_link"><img
+                        src="assets\img\portfolio\illu\clownboy.jpg" class="img-fluid zoom" width="300" alt=""></a>
             </div>
         </div>
     </div>
