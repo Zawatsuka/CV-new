@@ -41,11 +41,11 @@
                     </div>
 
                     <!-- partie formation  -->
-                    <a href="#" data-toggle="collapse" href="#comp" role="button" aria-expanded="false">
+                    <a class="text-danger" data-toggle="collapse" href="#form" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Formation</p>
                     </a>
-                    <div class="collapse mt-2" id="comp">
-                        <?php include('template/Competences.php'); ?>
+                    <div class="collapse mt-2" id="form">
+                        <?php include('template/formation.php'); ?>
                     </div>
 
 
@@ -58,7 +58,7 @@
                         <p class="fontSize mt-3 zoom">Portfolio</p>
                     </a>
 
-                    
+
                     <a href="#">
                         <p class="fontSize mt-3 zoom">Contact</p>
                     </a>
