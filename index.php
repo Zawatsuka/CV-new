@@ -40,16 +40,25 @@
                         <?php include('template/Competences.php'); ?>
                     </div>
 
-
-                    <a href="#">
+                    <!-- partie formation  -->
+                    <a href="#" data-toggle="collapse" href="#comp" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Formation</p>
                     </a>
+                    <div class="collapse mt-2" id="comp">
+                        <?php include('template/Competences.php'); ?>
+                    </div>
+
+
                     <a href="#">
                         <p class="fontSize mt-3 zoom">Experiences</p>
                     </a>
+
+
                     <a href="#">
                         <p class="fontSize mt-3 zoom">Portfolio</p>
                     </a>
+
+                    
                     <a href="#">
                         <p class="fontSize mt-3 zoom">Contact</p>
                     </a>
