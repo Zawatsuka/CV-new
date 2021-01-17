@@ -56,9 +56,12 @@
                         <?php include('template/experience.php'); ?>
                     </div>
 
-                    <a class="colorToA" href="#">
+                    <a href="#porfolio" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Portfolio</p>
                     </a>
+                    <div class="collapse mt-2" id="porfolio">
+                        <?php include('template/portfolio.php'); ?>
+                    </div>
 
 
                     <a class="colorToA" href="#">
