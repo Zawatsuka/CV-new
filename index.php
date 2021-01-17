@@ -16,50 +16,50 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-12">
-                <div class="text-center">
-                    <img src="assets/img/logonight.svg" class="img-fluid mt-3 " width="200" alt="logo lucas"
+                <div class="text-center slideInDown">
+                    <img src="assets/img/logonight.svg" class="img-fluid mt-3" width="200" alt="logo lucas"
                         id="imgChange">
                     <a href="#" id="changeTheme"><img src="assets\img\lune.svg" id="moon" class="img-fluid mt-3"
                             width="70" alt="lune"></a>
                 </div>
             </div>
             <div class="col-12 mt-5">
-                <div class="text-center">
+                <div class="text-center ">
                     <!-- partie qui suis je ? -->
-                    <a class="colorToA" data-toggle="collapse" href="#mwa" role="button" aria-expanded="false">
-                        <p class="fontSize mt-3 zoom">Qui suis je ?</p>
+                    <a class="colorToA " data-toggle="collapse" href="#mwa" role="button" aria-expanded="false">
+                        <p class="fontSize mt-3 zoom slideInLeft">Qui suis je ?</p>
                     </a>
-                    <div class="collapse mt-2" id="mwa">
+                    <div class="collapse mt-2 flipInX" id="mwa">
                         <?php include('template/mwa.php'); ?>
                     </div>
 
                     <!-- partie competences  -->
-                    <a class="colorToA" data-toggle="collapse" href="#comp" role="button" aria-expanded="false">
-                        <p class="fontSize mt-3 zoom">Competences</p>
+                    <a class="colorToA " data-toggle="collapse" href="#comp" role="button" aria-expanded="false">
+                        <p class="fontSize mt-3 zoom slideInRight">Competences</p>
                     </a>
                     <div class="collapse mt-2" id="comp">
                         <?php include('template/Competences.php'); ?>
                     </div>
 
                     <!-- partie formation  -->
-                    <a class="colorToA" data-toggle="collapse" href="#form" role="button" aria-expanded="false">
-                        <p class="fontSize mt-3 zoom">Formation</p>
+                    <a class="colorToA " data-toggle="collapse" href="#form" role="button" aria-expanded="false">
+                        <p class="fontSize mt-3 zoom slideInLeft">Formation</p>
                     </a>
                     <div class="collapse mt-2" id="form">
                         <?php include('template/formation.php'); ?>
                     </div>
 
                     <!-- partie Experiences  -->
-                    <a href="#exp" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
-                        <p class="fontSize mt-3 zoom">Experiences</p>
+                    <a href="#exp" class="colorToA " data-toggle="collapse" role="button" aria-expanded="false">
+                        <p class="fontSize mt-3 zoom slideInRight">Experiences</p>
                     </a>
                     <div class="collapse mt-2" id="exp">
                         <?php include('template/experience.php'); ?>
                     </div>
 
                     <!-- partie portfolio  -->
-                    <a href="#porfolio" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
-                        <p class="fontSize mt-3 zoom">Portfolio</p>
+                    <a href="#porfolio" class="colorToA " data-toggle="collapse" role="button" aria-expanded="false">
+                        <p class="fontSize mt-3 zoom slideInLeft">Portfolio</p>
                     </a>
                     <div class="collapse mt-2" id="porfolio">
                         <?php include('template/portfolio.php'); ?>
@@ -67,7 +67,7 @@
 
                      <!-- partie contact  -->
                      <a href="#Contact" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
-                        <p class="fontSize mt-3 zoom">Contact</p>
+                        <p class="fontSize mt-3 zoom slideInRight">Contact</p>
                     </a>
                     <div class="collapse mt-2" id="Contact">
                         <?php include('template/contact.php'); ?>
