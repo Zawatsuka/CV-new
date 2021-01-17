@@ -24,8 +24,8 @@
             </div>
             <div class="col-12 mt-5">
                 <div class="text-center">
-                <!-- partie qui suis je ? -->
-                    <a data-toggle="collapse" href="#mwa" role="button" aria-expanded="false">
+                    <!-- partie qui suis je ? -->
+                    <a class="colorToA" data-toggle="collapse" href="#mwa" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Qui suis je ?</p>
                     </a>
                     <div class="collapse mt-2" id="mwa">
@@ -49,20 +49,19 @@
                     </div>
 
                     <!-- partie Experiences  -->
-                    <a class="colorToA" data-toggle="collapse" href="#exp" role="button" aria-expanded="false">
+                    <a href="#exp" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom">Experiences</p>
                     </a>
                     <div class="collapse mt-2" id="exp">
-                        <?php include('template\experience.php'); ?>
+                        <?php include('template/experience.php'); ?>
                     </div>
 
-
-                    <a href="#">
+                    <a class="colorToA" href="#">
                         <p class="fontSize mt-3 zoom">Portfolio</p>
                     </a>
 
 
-                    <a href="#">
+                    <a class="colorToA" href="#">
                         <p class="fontSize mt-3 zoom">Contact</p>
                     </a>
                 </div>

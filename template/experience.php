@@ -17,4 +17,5 @@
             <img src="assets/img/gedimat.png" class="img-fluid" width="73" alt="ecole pivaut">
             <h3 class="mt-2">Differents stages et jobs d’été à Gedimat </h3>
         </div>
+    </div>
 </div>
