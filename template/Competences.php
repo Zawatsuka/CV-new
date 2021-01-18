@@ -7,42 +7,42 @@
             <img src="assets\img\web\HTML.png" id="HTMLimg" class="img-fluid mt-2" width="60" alt="">
             <div class="progress mt-4">
                 <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                    style="width: 82%" aria-valuenow="82" aria-valuemin="0" aria-valuemax="100"></div>
+                    style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
 
             <!-- css  -->
             <img src="assets\img\web\CSS.png" id="CSSimg" class="img-fluid mt-2" width="60" alt="">
             <div class="progress mt-4">
                 <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                    style="width: 82%" aria-valuenow="82" aria-valuemin="0" aria-valuemax="100"></div>
+                    style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
 
             <!-- JS  -->
             <img src="assets\img\web\js.png" id="JSimg" class="img-fluid mt-2" width="60" alt="">
             <div class="progress mt-4">
                 <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                    style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                    style="width: 28%" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
 
             <!-- php  -->
             <img src="assets\img\web\php.png" class="img-fluid mt-2" width="60" alt="">
             <div class="progress mt-4">
                 <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                    style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                    style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
 
             <!-- bootsrap  -->
             <img src="assets\img\web\bootstrap.png" class="img-fluid mt-2" width="60" alt="">
             <div class="progress mt-4">
                 <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                    style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                    style="width: 45%" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
 
             <!-- wordpress  -->
             <img src="assets\img\web\Wordpress.png" class="img-fluid mt-2" width="60" alt="">
             <div class="progress mt-4">
                 <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                    style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                    style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
         </div>
         <div class="col-12 col-sm-12 col-md-6 col-lg-6">
@@ -60,49 +60,56 @@
 
                 <!-- photoshop  -->
                 <img src="assets\img\adobe\photoshop.png" class="img-fluid mt-4" width="60" alt="">
-                <div class="progress mt-4">
+                <p>Photoshop</p>
+                <div class="progress">
                     <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                        style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                        style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
 
                 <!-- illustrator  -->
                 <img src="assets\img\adobe\AI.png" class="img-fluid mt-4" width="60" alt="">
-                <div class="progress mt-4">
+                <p>illustrator</p>
+                <div class="progress ">
                     <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                        style="width: 63%" aria-valuenow="63" aria-valuemin="0" aria-valuemax="100"></div>
+                        style="width: 58%" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
 
                 <!-- adobe xd  -->
                 <img src="assets\img\adobe\adobexd.png" class="img-fluid mt-4" width="60" alt="">
-                <div class="progress mt-4">
+                <p>Adobe XD</p>
+                <div class="progress ">
                     <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
                         style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
 
                 <!-- Premiere  -->
                 <img src="assets\img\adobe\premiere.png" class="img-fluid mt-4" width="60" alt="">
-                <div class="progress mt-4">
+                <p>Premiere Pro</p>
+                <div class="progress ">
                     <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
                         style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
 
                 <!-- after effect  -->
                 <img src="assets\img\adobe\AE.png" class="img-fluid mt-4" width="60" alt="">
-                <div class="progress mt-4">
+                <p>After Effect</p>
+                <div class="progress">
                     <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
-                        style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                        style="width: 45%" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
 
                 <!-- indesign  -->
                 <img src="assets\img\adobe\indesign.png" class="img-fluid mt-4" width="60" alt="">
-                <div class="progress mt-4">
+                <p>Indesign</p>
+                <div class="progress">
                     <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
                         style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
 
             </div>
             <img src="assets\img\procreate.png" class="img-fluid mt-5" width="60" alt="">
-            <div class="progress mt-4">
+    	    <p>Procreate</p>            
+            <div class="progress">
                 <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar"
                     style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
