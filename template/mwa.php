@@ -25,8 +25,8 @@
             <p class="mt-4 sizeForMobile">Bonjour, je suis Lucas THOMAS, on m'appelle aussi Zawa par moment, je suis un
                 Jeune Outil Multifonction du web de 21 ans, passionner par le cinéma, l'art, les jeux vidéo ainsi que
                 les Mangas.</p>
-            <p class="mt-2 sizeForMobile">Au début du texte précédent, je me suis qualifié de "Jeune Outil
-                Multifonction" pour une raison simple : "J'ai des compétences en web comme j'en ai en illustrations".
+            <p class="mt-2 sizeForMobile">Précédemment, je me suis qualifié de "Jeune Outil
+                Multifonction" pour une raison simple : "J'ai des compétences en web comme en illustrations".
                 </p>
             <p class="mt-2 sizeForMobile">Donc si vous êtes intéressez n'hésitez pas à me contacter !</p>
             <div class="container mt-5">
