@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+*{
+    scroll-behavior: smooth;
+}
 body {
     scroll-behavior: smooth;
     height: 100%;
@@ -12,7 +15,6 @@ body {
     -webkit-animation: AnimationName 18s ease infinite;
     -moz-animation: AnimationName 18s ease infinite;
     animation: AnimationName 18s ease infinite;
-    scroll-behavior: smooth;
 }
   .dark-mode {
     color: white;
