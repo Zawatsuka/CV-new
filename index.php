@@ -15,12 +15,18 @@
 <body>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-12">
+            <div class="col-12" id="up">
                 <div class="text-center slideInDown">
                     <img src="assets/img/logonight.svg" class="img-fluid mt-3" width="200" alt="logo lucas"
                         id="imgChange">
                     <a href="#" id="changeTheme"><img src="assets\img\lune.svg" id="moon" class="img-fluid mt-3"
                             width="70" alt="lune"></a>
+                </div>
+                <div class="container">
+                    <div class="col-12">
+                        <img onclick="topFunction()" id="myBtn" src="assets\img\boutonUP.svg" class="img-fluid zoom" width="100" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="col-12 mt-5">
@@ -65,8 +71,8 @@
                         <?php include('template/portfolio.php'); ?>
                     </div>
 
-                     <!-- partie contact  -->
-                     <a href="#Contact" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
+                    <!-- partie contact  -->
+                    <a href="#Contact" class="colorToA" data-toggle="collapse" role="button" aria-expanded="false">
                         <p class="fontSize mt-3 zoom slideInRight">Contact</p>
                     </a>
                     <div class="collapse mt-2" id="Contact">

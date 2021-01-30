@@ -1,6 +1,6 @@
 <div class="container ">
     <div class="row">
-        <div class="col-12 mt-5">
+        <div class="col-12">
             <p class="mt-4">2020</p>
             <img src="assets/img/home.png" id="home" class="img-fluid" width="73" alt="La manu">
             <h3 class="mt-2">Freelance en tant que Web-Designer/Graphiste/Monteur </h3>

@@ -1,6 +1,6 @@
 <div class="container ">
     <div class="row">
-        <div class="col-12 mt-5">
+        <div class="col-12 ">
             <p class="mt-4">2020-2021</p>
             <img src="assets/img/Lamanu.png" class="img-fluid" width="73" alt="La manu">
             <h3 class="mt-2">Formation Pour le titre pro de Devellopeur BAC + 2 à LaManu à Amiens </h3>
