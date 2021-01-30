@@ -11,6 +11,7 @@ body {
     -webkit-animation: AnimationName 18s ease infinite;
     -moz-animation: AnimationName 18s ease infinite;
     animation: AnimationName 18s ease infinite;
+    scroll-behavior: smooth;
 }
   .dark-mode {
     color: white;
